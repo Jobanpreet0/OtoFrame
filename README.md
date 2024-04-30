@@ -78,4 +78,4 @@ Developed a novel and sophisticated software application to address a critical *
 ## Contact
 
 For any issues or inquiries please contact:
-*email: 210142187@aston.ac.uk.
+* email: joban.01.singh@live.com.
