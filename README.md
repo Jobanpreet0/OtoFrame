@@ -9,7 +9,7 @@ Developed a novel and sophisticated software application to address a critical *
 
 ## Demo
 
-
+![OtoFrame](https://github.com/Jobanpreet0/OtoFrame/assets/66274737/bec49f6a-c10a-4a3b-9f12-b90f475109c4)
 
 **The Process of OtoFrame Involves:**
 1. Input: Video.
